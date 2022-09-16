@@ -63,7 +63,7 @@ main {
 section {
     color: white;
 
-    background-image: linear-gradient(90deg, green 0%, blue 100%);
+    background-image: linear-gradient(90deg, rgb(80, 19, 129) 0%, blue 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
